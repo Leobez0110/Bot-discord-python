@@ -1,4 +1,4 @@
-# bot-gerenciamento
+# Bot-gerenciamento
 
 Um bot completo para Discord, focado em automação de metas, controle de ausências, utilidades administrativas e diversão para servidores de comunidade ou jogos.
 
